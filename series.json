@@ -3,14 +3,28 @@
     "title": "Vanilo 4 From Scratch",
     "released": "2024-12-27T11:35:27+02:00",
     "updated": "2024-12-27T11:35:27+02:00",
-    "excerpt": "Building ecommerce applications can be overwhelming. With Vanilo 4, you'll tap into a Laravel-focused framework designed to handle aspects from product listings to order management. In this course, we’ll walk through Vanilo’s concepts, step by step, so you can confidently build your own ecommerce store in no time.",
+    "excerpt": "In this Video Series, you'll tap into Vanilo 4, the Laravel-focused ecommerce framework and learn its core concepts so that you can start building your own ecommerce system.",
     "videos": [
       {
-        "slug": "ep01-installation",
+        "slug": "ep01-vanilo-framework-installation",
         "id": "dacda082-e928-44bd-8755-6cf266b303d0",
         "title": "Vanilo 4 Installation",
         "duration": 79,
         "date": "2024-12-23T12:06:15+02:00"
+      },
+      {
+        "slug": "ep02-vanilo-admin-installation",
+        "id": "84b21290-482d-40c6-a700-b6444826415c",
+        "title": "Vanilo Admin Installation",
+        "duration": 150,
+        "date": "2024-12-23T12:07:15+02:00"
+      },
+      {
+        "slug": "ep03-configuring-images",
+        "id": "8fc413c9-1d8c-4cb2-8243-e57111b6c3ec",
+        "title": "Configuring Images",
+        "duration": 98,
+        "date": "2024-12-23T12:08:15+02:00"
       }
     ]
   }
