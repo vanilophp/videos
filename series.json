@@ -25,6 +25,76 @@
         "title": "Configuring Images",
         "duration": 98,
         "date": "2024-12-23T12:08:15+02:00"
+      },
+      {
+        "slug": "ep04-creating-products",
+        "id": "46ef4b08-ea0c-401e-be9d-0dc1ac4e7169",
+        "title": "Creating Products",
+        "duration": 137,
+        "date": "2024-12-23T12:09:15+02:00"
+      },
+      {
+        "slug": "ep05-categorizing-products",
+        "id": "e2cff161-445f-4abb-b172-f4ea0a7cbfcd",
+        "title": "Categorizing Products",
+        "duration": 160,
+        "date": "2024-12-23T12:10:15+02:00"
+      },
+      {
+        "slug": "ep06-listing-products",
+        "id": "a88efd33-314c-4e40-807c-49faee37838a",
+        "title": "Listing Products",
+        "duration": 122,
+        "date": "2024-12-23T12:11:15+02:00"
+      },
+      {
+        "slug": "ep07-showing-a-product",
+        "id": "c921b5b3-7872-4250-862f-61164f6edf1b",
+        "title": "Showing a Product",
+        "duration": 145,
+        "date": "2024-12-23T12:12:15+02:00"
+      },
+      {
+        "slug": "ep08-configuring-the-cart",
+        "id": "b0b56dc4-b7eb-44bc-b367-3c6a8c34ec24",
+        "title": "Configuring the Cart",
+        "duration": 212,
+        "date": "2024-12-23T12:13:15+02:00"
+      },
+      {
+        "slug": "ep09-showing-the-checkout",
+        "id": "3e316974-a331-411d-965d-feb7ec5afd9a",
+        "title": "Showing the Checkout",
+        "duration": 163,
+        "date": "2024-12-23T12:14:15+02:00"
+      },
+      {
+        "slug": "ep10-configuring-product-properties",
+        "id": "94d6f95c-1e01-444d-be06-651e67f29795",
+        "title": "Configuring Product Properties",
+        "duration": 189,
+        "date": "2024-12-23T12:15:15+02:00"
+      },
+      {
+        "slug": "ep11-handling-the-category-menu-items",
+        "id": "408f5c1a-5592-432f-ab17-3d3f5ef03e30",
+        "title": "Handling the Category Menu Items",
+        "duration": 222,
+        "date": "2024-12-23T12:16:15+02:00"
+      },
+      {
+        "slug": "ep12-showing-the-taxon-page",
+        "id": "baaa3608-0ab8-4e2c-be51-e6a2a0501737",
+        "title": "Showing the Taxon Page",
+        "duration": 158,
+        "date": "2024-12-23T12:17:15+02:00"
+      },
+      {
+        "slug": "ep13-filtering-products",
+        "id": "4af43cd2-b30d-4b3a-af45-15f7c7c25fcb",
+        "title": "Filtering Products",
+        "duration": 248,
+        "date": "2024-12-23T12:18:15+02:00"
       }
     ]
   }
