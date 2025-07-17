@@ -1,104 +1,105 @@
 {
   "vanilo4-from-scratch": {
     "title": "Vanilo 4 From Scratch",
+    "engine": "bunny",
     "released": "2024-12-27T11:35:27+02:00",
     "updated": "2024-12-27T11:35:27+02:00",
     "excerpt": "In this Video Series, you'll tap into Vanilo 4, the Laravel-focused ecommerce framework and learn its core concepts so that you can start building your own ecommerce system.",
     "videos": [
       {
         "slug": "ep01-vanilo-framework-installation",
-        "id": "dacda082-e928-44bd-8755-6cf266b303d0",
+        "id": "1c9eda3d-5cb0-42f8-97a3-0a832cbae677",
         "title": "Vanilo 4 Installation",
         "duration": 79,
         "date": "2024-12-23T12:06:15+02:00"
       },
       {
         "slug": "ep02-vanilo-admin-installation-with-vite",
-        "id": "ea8ece16-ecbb-4825-b277-a3d30eb298d7",
+        "id": "9ff7d06f-f043-43de-89fe-a8a3524077ea",
         "title": "Vanilo Admin Installation with Vite",
         "duration": 198,
         "date": "2025-04-15T12:07:15+02:00"
       },
       {
         "slug": "ep03-vanilo-admin-installation-with-laravel-mix",
-        "id": "22874542-6fa3-4951-986b-e063de7343e1",
+        "id": "db878a9c-825f-4079-8c0d-2c8f924cf35e",
         "title": "Vanilo Admin Installation with Laravel Mix",
         "duration": 125,
         "date": "2025-04-15T12:08:15+02:00"
       },
       {
         "slug": "ep04-configuring-images",
-        "id": "8fc413c9-1d8c-4cb2-8243-e57111b6c3ec",
+        "id": "2f5d1e9c-6a00-481d-9ce4-b8cf0c04c295",
         "title": "Configuring Images",
         "duration": 98,
         "date": "2024-12-23T12:08:15+02:00"
       },
       {
         "slug": "ep05-creating-products",
-        "id": "46ef4b08-ea0c-401e-be9d-0dc1ac4e7169",
+        "id": "c6218229-e42d-46e1-ae69-3a519ba0db13",
         "title": "Creating Products",
         "duration": 137,
         "date": "2024-12-23T12:09:15+02:00"
       },
       {
         "slug": "ep06-categorizing-products",
-        "id": "e2cff161-445f-4abb-b172-f4ea0a7cbfcd",
+        "id": "cd33ea1b-08cf-4337-ab42-9142aeff5cf9",
         "title": "Categorizing Products",
         "duration": 160,
         "date": "2024-12-23T12:10:15+02:00"
       },
       {
         "slug": "ep07-listing-products",
-        "id": "a88efd33-314c-4e40-807c-49faee37838a",
+        "id": "c0f13228-c1fd-4695-919a-4f07fe4cd799",
         "title": "Listing Products",
         "duration": 122,
         "date": "2024-12-23T12:11:15+02:00"
       },
       {
         "slug": "ep08-showing-a-product",
-        "id": "c921b5b3-7872-4250-862f-61164f6edf1b",
-        "title": "Showing a Product",
+        "id": "3b4a6c9d-a33e-4fd4-83f3-a59482803f9a",
+        "title": "The Product Page",
         "duration": 145,
         "date": "2024-12-23T12:12:15+02:00"
       },
       {
         "slug": "ep09-configuring-the-cart",
-        "id": "b0b56dc4-b7eb-44bc-b367-3c6a8c34ec24",
-        "title": "Configuring the Cart",
+        "id": "ef9919ac-e8ca-4786-8904-82c30e50e2d7",
+        "title": "The Shopping Cart",
         "duration": 212,
         "date": "2024-12-23T12:13:15+02:00"
       },
       {
         "slug": "ep10-showing-the-checkout",
-        "id": "3e316974-a331-411d-965d-feb7ec5afd9a",
-        "title": "Showing the Checkout",
+        "id": "cfe08ec1-f81d-492c-b1e8-db4c5acf2726",
+        "title": "The Checkout Page",
         "duration": 163,
         "date": "2024-12-23T12:14:15+02:00"
       },
       {
         "slug": "ep11-configuring-product-properties",
-        "id": "94d6f95c-1e01-444d-be06-651e67f29795",
-        "title": "Configuring Product Properties",
+        "id": "13197a07-5c9d-4866-a119-27ac7e450801",
+        "title": "Product Properties",
         "duration": 189,
         "date": "2024-12-23T12:15:15+02:00"
       },
       {
         "slug": "ep12-handling-the-category-menu-items",
-        "id": "408f5c1a-5592-432f-ab17-3d3f5ef03e30",
-        "title": "Handling the Category Menu Items",
+        "id": "dd7409f6-5cd9-457f-9617-56db1c272bb4",
+        "title": "Creating a Category Menu",
         "duration": 222,
         "date": "2024-12-23T12:16:15+02:00"
       },
       {
         "slug": "ep13-showing-the-taxon-page",
-        "id": "baaa3608-0ab8-4e2c-be51-e6a2a0501737",
-        "title": "Showing the Taxon Page",
+        "id": "41615a86-1e18-4822-880d-c8a963cd1636",
+        "title": "Displaying a Single Category",
         "duration": 158,
         "date": "2024-12-23T12:17:15+02:00"
       },
       {
         "slug": "ep14-filtering-products",
-        "id": "4af43cd2-b30d-4b3a-af45-15f7c7c25fcb",
+        "id": "4faff3f7-e6cf-41ad-854e-76312303074e",
         "title": "Filtering Products",
         "duration": 248,
         "date": "2024-12-23T12:18:15+02:00"
